@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi , I'm Malte </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roma&size=25&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Self-taught+fullstack+developer;18+y%2Fo+student+from+germany;loves+to+learn+new+stuff+%3C3;Co+Founder+of+CuodeX;CTF+%26+Codimgame+player" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roma&size=25&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Self-taught+fullstack+developer;19+y%2Fo+student+from+germany;loves+to+learn+new+stuff+%3C3;Co+Founder+of+CuodeX;CTF+%26+Codimgame+player" alt="Typing SVG" /></a>
 
 
 <br>
@@ -74,27 +74,6 @@
 </p>
 
 <br>
-<br>
-
------
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-[![DevOFVictory's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DevOFVictory&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![DevOFVictory's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DevOFVictory&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-</div>
-
-<br>
-<br>
-
------
 
 <br>
 <br>
